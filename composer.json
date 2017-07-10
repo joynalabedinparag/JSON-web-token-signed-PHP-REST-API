@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "illuminate/database": "~5.1"
+    }
+}
